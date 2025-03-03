@@ -1,0 +1,318 @@
+/* typeface */
+
+/* clash grotesk */
+
+@font-face {
+  font-family: 'ClashGrotesk-Extralight';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Extralight.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Extralight.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Light';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Light.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Light.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Regular';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Regular.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Regular.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Medium';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Medium.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Medium.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Semibold';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Semibold.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Semibold.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Bold';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Bold.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Bold.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashGrotesk-Variable';
+  src: url('/fonts/clashgrotesk/ClashGrotesk-Variable.woff2') format('woff2'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Variable.woff') format('woff'),
+       url('/fonts/clashgrotesk/ClashGrotesk-Variable.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+/* Geist */
+@font-face {
+  font-family: 'Geist-Black';
+  src: url('/fonts/geist/Geist-Black.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Black.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-Bold';
+  src: url('/fonts/geist/Geist-Bold.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Bold.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-ExtraBold';
+  src: url('/fonts/geist/Geist-ExtraBold.woff2') format('woff2'),
+       url('/fonts/geist/Geist-ExtraBold.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-ExtraLight';
+  src: url('/fonts/geist/Geist-ExtraLight.woff2') format('woff2'),
+       url('/fonts/geist/Geist-ExtraLight.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-Light';
+  src: url('/fonts/geist/Geist-Light.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Light.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-Medium';
+  src: url('/fonts/geist/Geist-Medium.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Medium.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-Regular';
+  src: url('/fonts/geist/Geist-Regular.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Regular.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Geist-Thin';
+  src: url('/fonts/geist/Geist-Thin.woff2') format('woff2'),
+       url('/fonts/geist/Geist-Thin.ttf') format('truetype');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+/* Gulax */
+
+@font-face {
+  font-family: 'Gulax-Regular';
+  src: url('/fonts/gulax/Gulax-Regular.woff2') format('woff2'),
+       url('/fonts/gulax/Gulax-Regular.woff') format('woff'),
+       url('/fonts/gulax/Gulax-Regular.eot') format('eot');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+}
+  
+/* nimbus */
+
+/* @font-face {
+  font-family: 'NimbusSanL-Bold';
+  src:url('/fonts/nimbus/NimbusSanL-Bold.ttf') format('ttf');
+  font-weight: 200 700;
+  font-display: swap;
+  font-style: normal;
+} */
+
+  /* CSS Resets */
+  /* ------------------------------------------------- */
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    font-size: 15px;
+  }
+  
+  body {
+    height: auto;
+    width: auto;
+    overflow-x: hidden;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    padding: 1% 8% 2% 8%;
+    font-size: 18px;
+    font-family: 'ClashGrotesk-Extralight';
+  }
+  
+  /* Actual Styling */
+  /* ------------------------------------------------ */
+  
+  h1 {
+    font-size: 90px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family:'Geist-Bold';
+  }
+
+  h2 { 
+    font-size: 25px;
+    color: red;
+    font-family:'Geist-Light';
+  }
+  
+  p {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+div.boyfriend > p {
+    text-align: left;
+}
+
+div.boyfriend > p:last-of-type {
+  font-family: monospace;
+  color: pink;
+  font-size: 80px;
+}
+
+div.boyfriend > p:nth-last-of-type(2) {
+  column-count: 2;
+  column-gap: 20px;
+  text-align:justify;
+}
+
+.boyfriend img {
+  width: 100%; 
+  border: 2px solid red; 
+  display: block; 
+  margin: 20px auto; 
+}
+
+.transition {
+ font-size: 90px;
+ color: blue;
+ text-align: right;
+ font-style: italic;
+}
+
+div.jodi > p{
+  text-align: left;
+}
+
+div.jodi > p:nth-of-type(2) {
+  font-family: monospace;
+  color: pink;
+  font-size: 80px;
+}
+
+div.jodi > p:nth-of-type(4) {
+  column-count: 2;
+  column-gap: 20px;
+  text-align:justify;
+}
+
+div.crowd > p:nth-of-type(2) {
+  font-family: monospace;
+  color: pink;
+  font-size: 80px;
+}
+
+.jodi img {
+  width: 100%; 
+  border: 2px solid red; 
+  display: block; 
+  margin: 20px auto; 
+}
+
+div.crowd > p {
+  text-align: left;
+}
+
+.crowd img {
+  width: 100%; 
+  border: 2px solid red; 
+  display: block; 
+  margin: 20px auto; 
+}
+
+div.crowd > p:nth-of-type(4) {
+  column-count: 2;
+  column-gap: 20px;
+  text-align:justify;
+}
+
+.RD {
+  color: pink;
+  font-size: 20px;
+  text-align:center;
+}
+
+.date {
+  color: pink;
+  font-size: 25px;
+  text-align: center;
+}
+
+.name {
+  color: pink;
+  font-size: 22px;
+  text-align: center;
+}
+
+video {
+  width:100%; 
+  height: auto;
+  border: 2px solid red; 
+  display:block;
+  margin: 20px auto;
+}
+  /* links */
+  /* ------------------------------------------------- */
+  
+  a:link,
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  a:hover {
+    color: rgb(223, 139, 253);
+  }
