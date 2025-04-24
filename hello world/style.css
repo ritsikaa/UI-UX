@@ -1,0 +1,61 @@
+/* Fonts */
+/* ------------------------------------------------- */
+
+@font-face  {
+font-family: 'Font Name';
+src: url('./fonts/font-name.eot');
+src: url('./fonts/font-name.eot?#iefix') format('embedded-opentype'),
+     url('./fonts/font-name.woff2') format('woff2'),
+     url('./fonts/font-name.woff') format('woff'),
+     url('./fonts/font-name.ttf') format('truetype');
+font-style: normal;
+font-weight: normal;
+}
+
+
+/* CSS Resets */
+/* ------------------------------------------------- */
+
+
+html  {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+body  {
+  margin: 0;
+  padding: 5rem;
+  height: 100vh;   
+  width: 100vw;     
+}
+
+*   { 
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+/* Actual Styling */
+/* ------------------------------------------------- */
+
+h1{
+  font-family: monospace;
+}
+
+p {
+  font-size: 50;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  font-family:monospace; 
+}
+
+h2 {
+  font-size: 150px;
+  font-family: monospace;
+}
+
+body{
+  background-color: rgb(0, 246, 37);
+}
