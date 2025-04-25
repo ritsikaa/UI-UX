@@ -34,8 +34,8 @@
 
   @font-face {
     font-family: 'Claire-Obscure';
-    src: url('../fonts/Claire-Obscure.woff2') format('woff2'),
-        url('../fonts/Claire-Obscure.woff') format('woff'),
+    src: url('/fonts/Claire-Obscure.woff2') format('woff2'),
+        url('/fonts/Claire-Obscure.woff') format('woff'),
   }
 
   /* CSS Resets */
